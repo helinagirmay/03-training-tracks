@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Helina Girmay
 
-Track Name: 
+Track Name: DevOps
 
-Track Description: 
+Track DescriptDevelopment and Operation of Software Development
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
